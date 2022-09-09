@@ -1,7 +1,7 @@
 ---
 layout: page
 title: It's my life
-image: assets/images/pic01.jpg
+image: assets/images/ocean.jpg
 nav-menu: true
 ---
 
