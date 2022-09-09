@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Waiting for update
+title: It's my life
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
